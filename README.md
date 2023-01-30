@@ -1,6 +1,6 @@
 - 👋 Yassine
 - 👀 I’m interested in computers, algorithms, mathematics and security.
-- 🌱 I’m currently learning binary exploitation and reverse engineering.
+- 🌱 I’m currently learning binary exploitation, reverse engineering and to write emulators.
 - 📫 yassine.el-baaj@x41-dsec.de
 
 <!---
